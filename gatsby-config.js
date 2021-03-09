@@ -11,7 +11,6 @@ module.exports = {
       twitter: `gukhan0v`,
     },
   },
-  pathPrefix: '/gukhan0v.net',
   plugins: [
     `gatsby-plugin-image`,
     {
